@@ -1,6 +1,6 @@
 **UK Bank Customer Data Analysis.**
 
-The Dashboard is cerated using Power BI Visualisation tool to explore the insgiths of Bank Customers Data. 
+The Dashboard is cerated using Power BI Visualization tool to explore the insgiths of Bank Customers Data. 
 
 Here we can see 4014 records with 9 columns 
 
